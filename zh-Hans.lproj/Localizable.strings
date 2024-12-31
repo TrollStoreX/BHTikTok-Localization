@@ -1,30 +1,30 @@
 /* Localizable.strings */
 
 // Main Titles
-"BHTikTok, Hi" = "BHTikTok, Hi";
-"BHTikTok++ settings" = "BHTikTok++ Settings";
+"BHTikTok, Hi" = "BHTikTok，你好";
+"BHTikTok++ settings" = "BHTikTok++ 设置";
 
 // Common Actions
-"Yes" = "Yes";
-"No" = "No";
-"ON" = "ON";
-"OFF" = "OFF";
-"Downloading" = "Downloading";
+"Yes" = "确定";
+"No" = "取消";
+"ON" = "开启";
+"OFF" = "关闭";
+"Downloading" = "下载中";
 "Backgrounding ✌️" = "Backgrounding ✌️";
-"Are you sure?" = "Are you sure?";
+"Are you sure?" = "你确定吗";
 
 // Download Options
-"Download Video" = "Download Video";
-"Download HD Video" = "Download HD Video";
-"Download Music" = "Download Music";
-"Download Photo" = "Download Photo";
-"Download All Photos" = "Download All Photos";
+"Download Video" = "下载视频";
+"Download HD Video" = "下载高清视频";
+"Download Music" = "下载音乐";
+"Download Photo" = "下载图片";
+"Download All Photos" = "下载所有图片";
 
 // Copy Options
-"Copy Music link" = "Copy haha Link";
-"Copy Video link" = "Copy Video Link";
-"Copy Decription" = "Copy Description";
-"Copy bio" = "Copy Bio";
+"Copy Music link" = "复制音乐链接";
+"Copy Video link" = "复制视频链接";
+"Copy Decription" = "复制描述文本";
+"Copy bio" = "复制简介";
 
 // Error Messages
 "Could Not Copy Music" = "Could Not Copy Music";
@@ -164,8 +164,8 @@
 "Compact" = "Compact";  
   
 // Action Options  
-"Cancel" = "Cancel";  
-"Regions" = "Regions";  
+"Cancel" = "取消";  
+"Regions" = "地区";  
 "Live Button Actions" = "Live Button Actions";  
 "Actions" = "Actions";  
 "Live Actions" = "Live Actions";  
