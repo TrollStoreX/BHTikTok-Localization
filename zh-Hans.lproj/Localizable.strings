@@ -152,25 +152,25 @@
 "FEATURE_COMMENT_REDESIGN" = "Select comment cell design style";
 
 // Comment and Design Settings  
-"Comment Settings" = "Comment Settings";  
-"Design Options" = "Design Options";  
-"Comment Features" = "Comment Features";  
-"Comment Design" = "Comment Design";  
-"Select Design" = "Select Design";  
+"Comment Settings" = "评论设置";  
+"Design Options" = "风格设置";  
+"Comment Features" = "评论功能";  
+"Comment Design" = "评论风格";  
+"Select Design" = "选择风格";  
   
 // Design Options  
-"Default" = "Default";  
-"Modern" = "Modern";  
-"Compact" = "Compact";  
+"Default" = "默认";  
+"Modern" = "现代";  
+"Compact" = "迷你";  
   
 // Action Options  
 "Cancel" = "取消";  
 "Regions" = "地区";  
-"Live Button Actions" = "Live Button Actions";  
-"Actions" = "Actions";  
-"Live Actions" = "Live Actions";  
+"Live Button Actions" = "直播按钮动作";  
+"Actions" = "动作";  
+"Live Actions" = "直播动作";  
   
 // Playback Settings  
-"BHTikTok++ Settings" = "BHTikTok++ Settings";  
-"Playback Speed" = "Playback Speed";  
-"Select Speed" = "Select Speed";
+"BHTikTok++ Settings" = "BHTikTok++ 设置";  
+"Playback Speed" = "播放速度";  
+"Select Speed" = "选择速度";
