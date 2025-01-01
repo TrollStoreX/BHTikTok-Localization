@@ -27,35 +27,35 @@
 "Copy bio" = "复制简介";
 
 // Error Messages
-"Could Not Copy Music" = "Could Not Copy Music";
-"The video dosen't have music to download" = "The video doesn't have music to download";
+"Could Not Copy Music" = "无法复制音乐链接";
+"The video dosen't have music to download" = "这个视频没有音乐可以下载";
 
 // Menu Labels
-"Downloads Menu" = "Downloads Menu";
-"Copy Menu" = "Copy Menu";
-"Download Photos Menu" = "Download Photos Menu";
+"Downloads Menu" = "下载菜单";
+"Copy Menu" = "复制菜单";
+"Download Photos Menu" = "下载图片菜单";
 
 // Section Headers
-"Feed" = "Feed";
-"Profile" = "Profile";
-"Confirm" = "Confirm";
-"Other" = "Other";
-"Region" = "Region";
-"Live Button Function" = "Live Button Function";
-"Playback Speed" = "Playback Speed";
-"Developer" = "Developer";
+"Feed" = "信息流";
+"Profile" = "资料";
+"Confirm" = "确认";
+"Other" = "其他";
+"Region" = "地区";
+"Live Button Function" = "直播按钮功能";
+"Playback Speed" = "播放速度";
+"Developer" = "开发者";
 
 // Feed Features
-"Hide Ads" = "Hide Ads";
-"Download Button" = "Download Button";
-"Share Sheet" = "Share Sheet";
-"Remove Watermark" = "Remove Watermark";
-"Show/Hide UI Button" = "Show/Hide UI Button";
-"Stop Playback" = "Stop Playback";
-"Auto Play Next Video" = "Auto Play Next Video";
-"Show Progress Bar" = "Show Progress Bar";
-"Transparent Comments" = "Transparent Comments";
-"Show Usernames" = "Show Usernames";
+"Hide Ads" = "隐藏广告";
+"Download Button" = "下载按钮";
+"Share Sheet" = "共享菜单";
+"Remove Watermark" = "移除水印";
+"Show/Hide UI Button" = "显示/隐藏 UI 按钮";
+"Stop Playback" = "停止播放";
+"Auto Play Next Video" = "自动播放下一个视频";
+"Show Progress Bar" = "显示进度条";
+"Transparent Comments" = "评论区透明背景";
+"Show Usernames" = "显示用户名";
 "Disable Sensitive Content" = "Disable Sensitive Content";
 "Disable Warnings" = "Disable Warnings";
 "Disable Live Streaming" = "Disable Live Streaming";
